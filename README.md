@@ -8,4 +8,4 @@ Lab6 - OXO game data generation using MCTS/UCT.
 Lab7 - CNN and RNN
 Lab8 - Dataset Shift and Transfer Learning
 Lab9 - VAEs and GANs
-Lab10- Deployment
+Lab10- Deployment and Version Control
